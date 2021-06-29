@@ -11,6 +11,7 @@ h1{
 	text-align:center;
 }
 #miCanvas{
+	background="fondo3.png"
 	border:dotted 2px Black;
 	background:white;	
 }
