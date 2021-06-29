@@ -291,7 +291,7 @@ window.onload = function(){
 }
 </script>
 </head>
-<body background="fondo2.png">
+<body background="fondo.png">
 <h1></h1>
 <canvas id="miCanvas" width="700px" height="550px">
 Tu navegador no soporta CANVAS
