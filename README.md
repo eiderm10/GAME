@@ -270,7 +270,7 @@ window.onload = function(){
 			 imagenEnemigo = new Image();
 			 imagenEnemigo.src = "imagenes/invader.fw.png";
 			 imagen.src = "imagenes/torre.fw.png";
-			 mensaje("INVASORES");
+			 mensaje("HONGOS");
 			 intro.play();
 			 imagen.onload = function(){
 				jugador = new Jugador(0);
