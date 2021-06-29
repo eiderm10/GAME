@@ -11,6 +11,7 @@ h1{
 	text-align:center;
 }
 #miCanvas{
+	background="fondo3.png"
 	border:dotted 2px Black;
 	background:white;	
 }
@@ -292,7 +293,7 @@ window.onload = function(){
 </head>
 <body background="fondo2.png">
 <h1></h1>
-<canvas background="fondo3.png" id="miCanvas" width="700px" height="550px">
+<canvas id="miCanvas" width="700px" height="550px">
 Tu navegador no soporta CANVAS
 </canvas>
 <audio id="boing">
